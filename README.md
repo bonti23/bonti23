@@ -31,6 +31,6 @@ I’m passionate about **Artificial Intelligence** and always looking for new wa
 ## 📫 How to Reach Me
 
 - [Gmail](alexandramiha04@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/alexandra-bon%C8%9Bidean-494b8b33b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- [LinkedIn](https://www.linkedin.com/in/alexandrabontidean/)
 
 Thanks for visiting my profile! 😄
