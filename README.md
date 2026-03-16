@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm currently in my second year at the **Faculty of Mathematics and Computer Science** at **UBB**, specializing in **Computer Science**. I have developed a few apps, and I'm always eager to improve my skills, especially in **AI**!
+I'm currently in my third year at the **Faculty of Mathematics and Computer Science** at **UBB**, specializing in **Computer Science**. I have developed a few apps, and I'm always eager to improve my skills, especially in **AI**!
 
 ## 🚀 My Projects
 
