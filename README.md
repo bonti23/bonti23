@@ -18,9 +18,10 @@ Here are a few projects I’ve worked on:
 
 ## 📚 University Projects
 
-In addition to personal projects, I also keep my university work organized. Feel free to explore the repositories where I share projects developed throughout my **Computer Science** studies at UBB.
+In addition to personal projects, I also keep my university work organized. Feel free to explore the repositories where I share projects developed throughout my studies at UBB.
 
-[University Projects](https://github.com/bonti23/Computer-Science-UBB)
+- [Computer Science – Bachelor's Degree](https://github.com/bonti23/Computer-Science-UBB)
+- [Software Engineering – Master's Degree](https://github.com/bonti23/Software-Engineering-UBB)
 
 ## 🔧 Technologies & Tools I Use
 
