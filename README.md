@@ -4,7 +4,9 @@
 
 I graduated with a **Bachelor's degree in Computer Science** from the **Faculty of Mathematics and Computer Science, Babeș-Bolyai University (UBB)** in June 2026. I'm currently pursuing a **Master's degree in Software Engineering**.
 
-Throughout my studies, I've worked on various projects and developed applications using different programming languages and technologies. I'm always eager to learn, improve my technical skills, and explore new areas of software development, especially **Artificial Intelligence**!
+I'm passionate about **Software Engineering and DevOps**, and I also have an interest in **Artificial Intelligence**. For my bachelor's thesis, I developed a Python-based project focused on computer vision and object detection, using YOLO models to detect dental caries in intraoral images.
+
+I'm always eager to learn new technologies, improve my skills, and take on new challenges!
 
 ## 🚀 My Projects
 
@@ -28,7 +30,7 @@ In addition to personal projects, I also keep my university work organized. Feel
 
 ## 💡 My Interests
 
-I'm passionate about **Software Engineering** and **Artificial Intelligence**. I enjoy learning new technologies, building applications, solving problems, and exploring how technology can be used to create meaningful solutions. I'm particularly interested in expanding my knowledge of software development and AI.
+I'm particularly interested in **DevOps, Cloud Computing, and Software Engineering**, while continuing to explore **Artificial Intelligence** and its practical applications.
 
 ## 📫 How to Reach Me
 
